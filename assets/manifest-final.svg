@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320">
+<defs><linearGradient id="g" x1="0" x2="1400"><stop stop-color="#06080C"/><stop offset=".5" stop-color="#0C1118"/><stop offset="1" stop-color="#06080C"/></linearGradient></defs>
+<rect width="1400" height="320" rx="26" fill="url(#g)"/>
+<rect x=".5" y=".5" width="1399" height="319" rx="25.5" fill="none" stroke="#fff" stroke-opacity=".075"/>
+<text x="52" y="52" font-family="monospace" font-size="13" letter-spacing="3" fill="#737F90">IMPRESEO / CORE MANIFEST</text>
+<text x="52" y="123" font-family="Arial" font-size="40" font-weight="700" fill="#F3F5F8">Useful first.</text>
+<text x="52" y="174" font-family="Arial" font-size="40" font-weight="700" fill="#BBC4D2">Distinct by design.</text>
+<text x="52" y="238" font-family="monospace" font-size="13" fill="#7A8696">FUNCTION → STRUCTURE → INTERACTION → IDENTITY → FINISH</text>
+<text x="52" y="274" font-family="monospace" font-size="11" fill="#596575">NO BADGE WALLS · NO FAKE METRICS · NO TEMPLATE COPY</text>
+<g transform="translate(1120 52)">
+<circle cx="95" cy="100" r="90" fill="none" stroke="#fff" stroke-opacity=".075"/>
+<circle cx="95" cy="100" r="58" fill="none" stroke="#fff" stroke-opacity=".12"/>
+<circle cx="95" cy="100" r="9" fill="#E5EBF6"/>
+<path d="M95 10v180M5 100h180" stroke="#fff" stroke-opacity=".06"/>
+</g>
+</svg>
