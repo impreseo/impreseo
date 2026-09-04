@@ -302,7 +302,6 @@ Complex should not mean confusing.**
 </details>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
-
 # ◉ TELEMETRY
 
 <div align="center">
@@ -332,15 +331,21 @@ Complex should not mean confusing.**
 
 <div align="center">
 
-<a href="https://github.com/impreseo">
-
-<img
-  src="https://github.com/impreseo/impreseo/blob/output/github-contribution-grid-snake.svg"
-  width="97%"
-  alt="IMPRESEO Contribution Trace"
-/>
-
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg"
+    width="97%"
+    alt="IMPRESEO Contribution Trace"
+  />
+</picture>
 
 </div>
 
