@@ -307,21 +307,19 @@ Complex should not mean confusing.**
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/telemetry-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/telemetry-light.svg"
-  />
-  <img
-    src="./assets/telemetry-light.svg"
-    width="97%"
-    alt="IMPRESEO Live Activity Telemetry"
-  />
-</picture>
+### `IMPRESEO / GITHUB ACTIVITY`
+
+<br/>
+
+<a href="https://github.com/impreseo">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=impreseo&theme=github-compact&hide_border=true"
+  width="97%"
+  alt="IMPRESEO GitHub Activity"
+/>
+
+</a>
 
 </div>
 
@@ -334,21 +332,15 @@ Complex should not mean confusing.**
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="./assets/github-contribution-grid-snake.svg"
-    width="97%"
-    alt="IMPRESEO Contribution Trace"
-  />
-</picture>
+<a href="https://github.com/impreseo">
+
+<img
+  src="https://github.com/impreseo/impreseo/blob/output/github-contribution-grid-snake.svg"
+  width="97%"
+  alt="IMPRESEO Contribution Trace"
+/>
+
+</a>
 
 </div>
 
