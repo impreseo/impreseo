@@ -307,7 +307,19 @@ Complex should not mean confusing.**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=impreseo&bg_color=00000000&color=788499&line=D7DEE9&point=FFFFFF&area=true&hide_border=true&custom_title=IMPRESEO%20%2F%20LIVE%20ACTIVITY%20TELEMETRY" width="97%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=impreseo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=D7DEE9&text_color=788499&icon_color=D7DEE9"
+  width="97%"
+  alt="IMPRESEO GitHub Statistics"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=impreseo&layout=compact&hide_border=true&bg_color=00000000&title_color=D7DEE9&text_color=788499"
+  width="97%"
+  alt="IMPRESEO Most Used Languages"
+/>
 
 </div>
 
@@ -317,11 +329,23 @@ Complex should not mean confusing.**
 <br/>
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution trace" src="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg"
+    width="97%"
+    alt="Contribution trace"
+  />
 </picture>
+
 </div>
 
 </details>
