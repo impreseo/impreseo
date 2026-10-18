@@ -142,17 +142,6 @@ I choose tools based on the problem at hand, prioritizing predictability, speed,
 
 ### `05 // TELEMETRY` &mdash; GitHub Signal
 
-<div align="center">
-
-<a href="https://github.com/impreseo">
-  <img src="https://github-readme-stats.vercel.app/api?username=impreseo&show_icons=true&theme=tokyonight&bg_color=0A0A0C&title_color=C7F36B&text_color=F1F0ED&icon_color=9277FF&border_color=22222E&hide_border=false" alt="IMPRESEO GitHub Stats" height="155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impreseo&layout=compact&theme=tokyonight&bg_color=0A0A0C&title_color=C7F36B&text_color=F1F0ED&border_color=22222E&hide_border=false" alt="Top Languages" height="155">
-</a>
-
-<p><em>(Live stats rendered via GitHub API · Fallbacks provided if service is unreachable)</em></p>
-
-</div>
-
 ---
 
 ### `06 // METHODOLOGY` &mdash; How I Build
