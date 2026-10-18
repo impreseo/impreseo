@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" fill="none">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="heroBgGrad" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0E0E12"/>
+      <stop offset="50%" stop-color="#0A0A0C"/>
+      <stop offset="100%" stop-color="#08080A"/>
+    </linearGradient>
+
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C7F36B" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#C7F36B"/>
+      <stop offset="75%" stop-color="#9277FF"/>
+      <stop offset="100%" stop-color="#9277FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F1F0ED"/>
+      <stop offset="100%" stop-color="#A4A3AA"/>
+    </linearGradient>
+
+    <radialGradient id="glowSpot" cx="240" cy="190" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C7F36B" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#9277FF" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#0A0A0C" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="rightGlow" cx="950" cy="180" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9277FF" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#C7F36B" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#0A0A0C" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Dot Pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#1C1C24"/>
+    </pattern>
+
+    <!-- Micro Grid -->
+    <pattern id="microGrid" x="0" y="0" width="96" height="96" patternUnits="userSpaceOnUse">
+      <path d="M 96 0 L 0 0 0 96" fill="none" stroke="#15151B" stroke-width="0.75"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="380" rx="16" fill="url(#heroBgGrad)"/>
+  
+  <!-- Subtle Grid Overlays -->
+  <rect width="1200" height="380" rx="16" fill="url(#microGrid)"/>
+  <rect width="1200" height="380" rx="16" fill="url(#dotGrid)"/>
+
+  <!-- Radial Atmosphere -->
+  <rect width="1200" height="380" rx="16" fill="url(#glowSpot)"/>
+  <rect width="1200" height="380" rx="16" fill="url(#rightGlow)"/>
+
+  <!-- Outer Technical Border -->
+  <rect x="0.75" y="0.75" width="1198.5" height="378.5" rx="15.25" stroke="#1E1E26" stroke-width="1.5"/>
+
+  <!-- Top Technical Header Strip -->
+  <path d="M0 44 L1200 44" stroke="#1B1B22" stroke-width="1"/>
+  
+  <!-- Corner Chamfer Markers -->
+  <path d="M16 44 L28 44" stroke="#C7F36B" stroke-width="2"/>
+  <path d="M1172 44 L1184 44" stroke="#9277FF" stroke-width="2"/>
+
+  <!-- Top Header Metadata -->
+  <g font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="11" fill="#787782">
+    <text x="32" y="27" letter-spacing="1.5">
+      <tspan fill="#C7F36B" font-weight="700">SYS // </tspan>IMPRESEO.CORE
+    </text>
+    <text x="320" y="27" letter-spacing="1">ARCH: SYSTEMS &amp; CREATIVE TECH</text>
+    <text x="820" y="27" letter-spacing="1">STATUS: <tspan fill="#C7F36B">NOMINAL / BUILDING</tspan></text>
+    <text x="1080" y="27" letter-spacing="1.5">v2026.1</text>
+  </g>
+
+  <!-- Left Side: Integrated Geometric Brand Emblem -->
+  <g transform="translate(48, 86)">
+    <!-- Shield / Hex Frame -->
+    <rect width="128" height="128" rx="24" fill="#131317" stroke="#252532" stroke-width="1.5"/>
+    <!-- Subtle Inner Hex Axis -->
+    <circle cx="64" cy="64" r="50" stroke="#1A1A22" stroke-width="1" stroke-dasharray="3 6"/>
+    
+    <!-- Hexagon Prism Base -->
+    <path d="M64 24 L98 44 L98 84 L64 104 L30 84 L30 44 Z" fill="#0D0D10" stroke="#2B2B38" stroke-width="1.5"/>
+    <line x1="64" y1="24" x2="64" y2="64" stroke="#252534" stroke-width="1.5"/>
+    <line x1="98" y1="84" x2="64" y2="64" stroke="#252534" stroke-width="1.5"/>
+    <line x1="30" y1="84" x2="64" y2="64" stroke="#252534" stroke-width="1.5"/>
+
+    <!-- Central 'I' Core Signal Monogram -->
+    <path d="M54 42 L74 42 L74 50 L68 50 L68 78 L74 78 L74 86 L54 86 L54 78 L60 78 L60 50 L54 50 Z" 
+          fill="#FFFFFF" opacity="0.95"/>
+    
+    <!-- Pulse Conduits (Chartreuse & Violet) -->
+    <path d="M30 64 L50 64 L60 54 L68 74 L78 64 L98 64" 
+          stroke="#C7F36B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="54" r="3.5" fill="#C7F36B"/>
+    <circle cx="68" cy="74" r="3.5" fill="#9277FF"/>
+    <circle cx="64" cy="64" r="4" fill="#FFFFFF"/>
+
+    <!-- Badge Sub-label -->
+    <text x="64" y="118" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="7" fill="#888795" letter-spacing="1.5">ID: NIRANJAN</text>
+  </g>
+
+  <!-- Center Editorial Typography Section -->
+  <g transform="translate(204, 92)">
+    <!-- Small Category Kicker -->
+    <rect x="0" y="0" width="134" height="22" rx="4" fill="#14141A" stroke="#242430" stroke-width="1"/>
+    <circle cx="10" cy="11" r="3.5" fill="#C7F36B"/>
+    <text x="22" y="15" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#C7F36B" font-weight="600" letter-spacing="1">DEV &amp; BUILDER</text>
+
+    <!-- Main Title -->
+    <text x="0" y="68" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="44" font-weight="800" fill="url(#textGrad)" letter-spacing="2">
+      IMPRESEO
+    </text>
+    <text x="274" y="68" font-family="'JetBrains Mono', monospace" font-size="34" font-weight="700" fill="#C7F36B">
+      _
+    </text>
+
+    <!-- Headline (Suggested) -->
+    <text x="0" y="104" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#F1F0ED" letter-spacing="0.2">
+      Curious by nature. Building by choice.
+    </text>
+
+    <!-- Body Supporting Copy -->
+    <text x="0" y="132" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="13.5" font-weight="400" fill="#A4A3AA">
+      I build software, explore intelligent systems, and turn ideas into experiments worth sharing.
+    </text>
+
+    <!-- Domains of Interest Tag Pills -->
+    <g transform="translate(0, 154)" font-family="'JetBrains Mono', monospace" font-size="10.5">
+      <!-- Tag 1 -->
+      <rect x="0" y="0" width="102" height="24" rx="4" fill="#131317" stroke="#23232C" stroke-width="1"/>
+      <text x="10" y="16" fill="#C7F36B"># DevTools</text>
+
+      <!-- Tag 2 -->
+      <rect x="110" y="0" width="100" height="24" rx="4" fill="#131317" stroke="#23232C" stroke-width="1"/>
+      <text x="120" y="16" fill="#9277FF"># AI Systems</text>
+
+      <!-- Tag 3 -->
+      <rect x="218" y="0" width="94" height="24" rx="4" fill="#131317" stroke="#23232C" stroke-width="1"/>
+      <text x="228" y="16" fill="#D4D3D8"># Robotics</text>
+
+      <!-- Tag 4 -->
+      <rect x="320" y="0" width="118" height="24" rx="4" fill="#131317" stroke="#23232C" stroke-width="1"/>
+      <text x="330" y="16" fill="#A4A3AA"># CyberSecurity</text>
+
+      <!-- Tag 5 -->
+      <rect x="446" y="0" width="128" height="24" rx="4" fill="#131317" stroke="#23232C" stroke-width="1"/>
+      <text x="456" y="16" fill="#F1F0ED"># CreativeTech</text>
+    </g>
+  </g>
+
+  <!-- Right Side: System Signal Topology Diagram -->
+  <g transform="translate(800, 74)">
+    <!-- Circuit Card Container -->
+    <rect width="360" height="216" rx="10" fill="#111116" stroke="#20202A" stroke-width="1.2"/>
+    
+    <!-- Technical Sub-header -->
+    <rect x="0" y="0" width="360" height="32" rx="10" fill="#14141B"/>
+    <path d="M0 32 L360 32" stroke="#20202A" stroke-width="1"/>
+    <text x="16" y="21" font-family="'JetBrains Mono', monospace" font-size="9" fill="#888795" letter-spacing="1">SYSTEM PIPELINE // SIGNAL FLOW</text>
+    <circle cx="342" cy="16" r="3.5" fill="#C7F36B"/>
+
+    <!-- Grid Schematic Canvas -->
+    <!-- Signal Conduit Bus Lines -->
+    <path d="M36 82 L100 82 L132 120 L220 120 L256 74 L324 74" 
+          stroke="#272735" stroke-width="2" fill="none"/>
+    <path d="M36 150 L100 150 L132 120" 
+          stroke="#272735" stroke-width="2" fill="none"/>
+    <path d="M220 120 L256 160 L324 160" 
+          stroke="#272735" stroke-width="2" fill="none"/>
+
+    <!-- Active Chartreuse/Violet Conduit Highlighting -->
+    <path d="M70 82 L100 82 L132 120 L220 120 L256 74 L290 74" 
+          stroke="url(#accentLine)" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+
+    <!-- Stage Node 01: EXPLORE -->
+    <g transform="translate(24, 66)">
+      <rect width="64" height="32" rx="6" fill="#171720" stroke="#2A2A38" stroke-width="1"/>
+      <text x="32" y="16" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8" fill="#8C8B99" font-weight="600">01.IDEA</text>
+      <text x="32" y="26" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="6.5" fill="#5E5D6A">HYPOTHESIS</text>
+      <circle cx="64" cy="16" r="2.5" fill="#C7F36B"/>
+    </g>
+
+    <!-- Stage Node 02: EXPERIMENT -->
+    <g transform="translate(142, 104)">
+      <rect width="78" height="32" rx="6" fill="#171722" stroke="#3D375C" stroke-width="1.2"/>
+      <text x="39" y="16" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8" fill="#C7F36B" font-weight="700">02.PROTOTYPE</text>
+      <text x="39" y="26" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="6.5" fill="#9277FF">TEST &amp; BENCH</text>
+      <circle cx="0" cy="16" r="3" fill="#C7F36B"/>
+      <circle cx="78" cy="16" r="3" fill="#9277FF"/>
+    </g>
+
+    <!-- Stage Node 03: SYSTEM (Top Branch) -->
+    <g transform="translate(262, 58)">
+      <rect width="74" height="32" rx="6" fill="#171720" stroke="#2D3B26" stroke-width="1.2"/>
+      <text x="37" y="16" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8" fill="#F1F0ED" font-weight="600">03.SYSTEM</text>
+      <text x="37" y="26" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="6.5" fill="#C7F36B">P.ODE · FLUX</text>
+      <circle cx="0" cy="16" r="2.5" fill="#C7F36B"/>
+    </g>
+
+    <!-- Stage Node 04: COMMUNITY (Bottom Branch) -->
+    <g transform="translate(262, 144)">
+      <rect width="74" height="32" rx="6" fill="#171720" stroke="#2A2A38" stroke-width="1"/>
+      <text x="37" y="16" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8" fill="#8C8B99" font-weight="600">04.FORGE</text>
+      <text x="37" y="26" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="6.5" fill="#A4A3AA">WELZ FORGE</text>
+      <circle cx="0" cy="16" r="2.5" fill="#9277FF"/>
+    </g>
+
+    <!-- Telemetry Readout -->
+    <path d="M12 188 L348 188" stroke="#1D1D26" stroke-width="1"/>
+    <text x="16" y="204" font-family="'JetBrains Mono', monospace" font-size="8" fill="#71707E">
+      SIGNAL: 100% NOMINAL  ·  LOOP: CONTINOUS ITERATION
+    </text>
+  </g>
+
+  <!-- Bottom Accent Gradient Rule -->
+  <rect x="0" y="324" width="1200" height="2" fill="url(#accentLine)"/>
+
+  <!-- Footer Technical Strip -->
+  <g transform="translate(32, 354)" font-family="'JetBrains Mono', monospace" font-size="10" fill="#737280">
+    <text x="0" y="0">PORTFOLIO: impreseo.netlify.app</text>
+    <text x="320" y="0">GITHUB: @impreseo</text>
+    <text x="560" y="0">CONNECT: in/impreseo · @theimpreseo</text>
+    <text x="960" y="0" fill="#C7F36B">BUILD. EXPERIMENT. LEARN. REPEAT.</text>
+  </g>
+</svg>

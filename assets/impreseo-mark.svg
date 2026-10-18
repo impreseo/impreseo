@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" fill="none">
+  <defs>
+    <linearGradient id="markGrad1" x1="20" y1="20" x2="140" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C7F36B"/>
+      <stop offset="100%" stop-color="#9277FF"/>
+    </linearGradient>
+    <linearGradient id="markGrad2" x1="140" y1="20" x2="20" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9277FF"/>
+      <stop offset="100%" stop-color="#C7F36B"/>
+    </linearGradient>
+    <radialGradient id="markGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C7F36B" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0A0A0C" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="markBloom" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="160" height="160" rx="28" fill="#0A0A0C"/>
+  <rect width="160" height="160" rx="28" stroke="#1F1F27" stroke-width="1.5"/>
+
+  <!-- Subtle Ambient Glow -->
+  <circle cx="80" cy="80" r="64" fill="url(#markGlow)"/>
+
+  <!-- Precision Technical Reticle Ring -->
+  <circle cx="80" cy="80" r="62" stroke="#1C1C24" stroke-width="1" stroke-dasharray="4 8"/>
+  <circle cx="80" cy="80" r="48" stroke="#252532" stroke-width="1"/>
+
+  <!-- Cardinal Coordinate Ticks -->
+  <line x1="80" y1="12" x2="80" y2="20" stroke="#3A3A48" stroke-width="1.5"/>
+  <line x1="80" y1="140" x2="80" y2="148" stroke="#3A3A48" stroke-width="1.5"/>
+  <line x1="12" y1="80" x2="20" y2="80" stroke="#3A3A48" stroke-width="1.5"/>
+  <line x1="140" y1="80" x2="148" y2="80" stroke="#3A3A48" stroke-width="1.5"/>
+
+  <!-- Outer Isometric Hexagonal Shell -->
+  <path d="M80 30 L122 54 L122 106 L80 130 L38 106 L38 54 Z" 
+        stroke="#2E2E3C" stroke-width="1.5" fill="#131317" fill-opacity="0.8"/>
+
+  <!-- Hex Axis Conduits -->
+  <line x1="80" y1="30" x2="80" y2="80" stroke="#2A2A38" stroke-width="1.5"/>
+  <line x1="122" y1="106" x2="80" y2="80" stroke="#2A2A38" stroke-width="1.5"/>
+  <line x1="38" y1="106" x2="80" y2="80" stroke="#2A2A38" stroke-width="1.5"/>
+
+  <!-- The "I" & Kinetic Signal Core: Geometric Monogram -->
+  <!-- Upper Left Facet -->
+  <path d="M80 34 L118 56 L80 78 L42 56 Z" 
+        fill="#181820" stroke="#2E2E3E" stroke-width="1"/>
+  
+  <!-- Right Facet (Violet Hue) -->
+  <path d="M80 78 L118 56 L118 102 L80 124 Z" 
+        fill="#15141D" stroke="#352F4E" stroke-width="1"/>
+
+  <!-- Left Facet (Dark Technical Charcoal) -->
+  <path d="M42 56 L80 78 L80 124 L42 102 Z" 
+        fill="#121315" stroke="#262E25" stroke-width="1"/>
+
+  <!-- Central "I" Beam & Signal Pulse Path -->
+  <path d="M68 52 L92 52 L92 62 L84 62 L84 98 L92 98 L92 108 L68 108 L68 98 L76 98 L76 62 L68 62 Z" 
+        fill="url(#markGrad1)" filter="url(#markBloom)"/>
+
+  <!-- Primary Signal Pulse Line (Chartreuse) -->
+  <path d="M38 80 L62 80 L74 68 L86 92 L98 80 L122 80" 
+        stroke="#C7F36B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Active Signal Node Markers -->
+  <circle cx="74" cy="68" r="3.5" fill="#C7F36B"/>
+  <circle cx="86" cy="92" r="3.5" fill="#9277FF"/>
+  <circle cx="80" cy="80" r="4.5" fill="#FFFFFF"/>
+
+  <!-- Peripheral Metric Labels -->
+  <text x="80" y="26" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="7" fill="#666675" letter-spacing="1">IMP // 01</text>
+  <text x="80" y="152" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="6.5" fill="#A4A3AA" letter-spacing="1.5">SYS.ACTIVE</text>
+</svg>

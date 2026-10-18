@@ -1,375 +1,198 @@
 <div align="center">
 
-<img src="./assets/hero-final.gif" width="100%" alt="IMPRESEO ONE — Final Profile System" />
-
-<br/>
-
-<a href="#-identity"><kbd>IDENTITY</kbd></a>
-&nbsp;
-<a href="#-projects"><kbd>PROJECTS</kbd></a>
-&nbsp;
-<a href="#-capabilities"><kbd>CAPABILITIES</kbd></a>
-&nbsp;
-<a href="#-protocol"><kbd>PROTOCOL</kbd></a>
-&nbsp;
-<a href="#-telemetry"><kbd>TELEMETRY</kbd></a>
-&nbsp;
-<a href="#-uplink"><kbd>UPLINK</kbd></a>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-# ◈ IDENTITY
-
-<table>
-<tr>
-<td width="64%" valign="top">
-
-## `IMPRESEO / NIRANJAN`
-
-I build **software, interfaces, utilities, product systems and experiments**.
-
-Not to make a profile look busy.
-
-To make useful things that feel finished, understandable, and unmistakably intentional.
-
-> **Useful enough to keep. Distinct enough to remember. Finished enough to trust.**
-
-A product is not only its main screen.
-
-It is also its:
-
-`states` · `errors` · `empty screens` · `installation` · `naming` · `performance` · `documentation` · `interaction`
-
-</td>
-<td width="36%" valign="top">
-
-```txt
-╔═ IMPRESEO::ONE
-║
-╠ MODE       BUILD
-╠ FOCUS      PRODUCT
-╠ STYLE      DISTINCT
-╠ UI         DARK / CLEAN
-╠ BIAS       USEFUL
-╠ QUALITY    PRODUCT-GRADE
-╠ NOISE      FILTERED
-║
-╚ STATE      ONLINE
-```
-
-**Current lanes**
-
-`desktop utilities`  
-`product identity`  
-`community systems`  
-`automation`  
-`AI-assisted workflows`
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/manifest-final.svg" width="100%" alt="IMPRESEO Core Manifest" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-# ⌁ PROJECTS
-
-<div align="center">
-<img src="./assets/projects-final.gif" width="100%" alt="IMPRESEO Project Architecture" />
-</div>
-
-<br/>
-
-<details open>
-<summary><b>01 // PRODUCT IDENTITY SYSTEM</b></summary>
-
-<br/>
-
-A digital identity layer for physical products.
-
-```txt
-PHYSICAL PRODUCT
-       │
-       ▼
-UNIQUE ID / QR / SERIAL
-       │
-       ▼
-VERIFIED DIGITAL RECORD
-       │
-       ├── authenticity
-       ├── manufacturer
-       ├── invoice
-       ├── warranty
-       ├── service history
-       ├── ownership ledger
-       ├── recalls
-       └── lifecycle data
-```
-
-**Goal:** keep a product's identity, history and ownership verifiable throughout its lifecycle.
-
-</details>
-
-<details>
-<summary><b>02 // UTILITY SYSTEMS</b></summary>
-
-<br/>
-
-Focused desktop tools built around one test:
-
-> **Would this deserve to stay installed?**
-
-```txt
-FAST START
-LOW BLOAT
-CLEAR INFORMATION
-REAL ACTIONS
-GOOD INSTALL FLOW
-CONSISTENT UI
-USEFUL DEFAULTS
-NO FAKE COMPLEXITY
-```
-
-Small scope is fine. Cheap execution is not.
-
-</details>
-
-<details>
-<summary><b>03 // COMMUNITY R&D</b></summary>
-
-<br/>
-
-A from-scratch exploration of modern community software built around:
-
-`gaming` · `identity` · `modularity` · `presence` · `customization`
-
-**Rule:** question the default before copying the default.
-
-</details>
-
-<details>
-<summary><b>04 // EXPERIMENT LAB</b></summary>
-
-<br/>
-
-```bash
-$ idea --spawn
-prototype created
-
-$ prototype --test
-useful    -> refine
-generic   -> rethink
-pointless -> delete
-```
-
-Automation, AI-assisted workflows, developer utilities, product concepts and interface experiments live here.
-
-</details>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-# ✦ CAPABILITIES
-
-<div align="center">
-<img src="./assets/capabilities-final.gif" width="100%" alt="IMPRESEO Capability Network" />
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `DESIGN / PRODUCT`
-
-```txt
-Figma
-Photoshop
-Illustrator
-
-Information architecture
-Interaction thinking
-Product structure
-Visual systems
-Rapid prototyping
-```
-
-</td>
-<td width="50%" valign="top">
-
-### `BUILD / SYSTEMS`
-
-```txt
-HTML / CSS
-JavaScript / TypeScript
-React
-Node.js
-Python
-SQLite / MySQL
-
-Git / GitHub
-Automation
-AI-assisted development
-```
-
-</td>
-</tr>
-</table>
-
-> **Tools are replaceable. Taste, structure, problem-solving and execution are the real stack.**
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-# ⌬ PROTOCOL
-
-<details open>
-<summary><b>BUILD PIPELINE</b></summary>
-
-<br/>
-
-```txt
-[01] FIND FRICTION
-        ↓
-[02] REDUCE THE PROBLEM
-        ↓
-[03] DESIGN THE SYSTEM
-        ↓
-[04] BUILD THE CORE
-        ↓
-[05] REMOVE THE GENERIC
-        ↓
-[06] TEST THE BORING FLOWS
-        ↓
-[07] SHIP
-        ↓
-[08] REFINE UNTIL IT FEELS INTENTIONAL
-```
-
-</details>
-
-<details>
-<summary><b>QUALITY GATE</b></summary>
-
-<br/>
-
-```diff
-+ clear hierarchy
-+ useful defaults
-+ meaningful interaction
-+ real states
-+ proper error handling
-+ responsive behavior
-+ fast startup
-+ finished installation
-+ documentation worth opening
-+ motion with purpose
-+ visual identity with restraint
-
-- badge walls
-- fake skill percentages
-- random neon
-- feature-count flexing
-- template copy
-- effects without purpose
-- UI made only for screenshots
-```
-
-</details>
-
-<details>
-<summary><b>DESIGN LANGUAGE</b></summary>
-
-<br/>
-
-```txt
-SURFACE      dark / low-noise
-TYPE         geometric / technical
-MOTION       continuous / restrained
-DEPTH        layered / structural
-ACCENT       cool neutral
-LAYOUT       modular / readable
-INTERACTION  native / obvious
-IDENTITY     IMPRESEO
-```
-
-**Minimal should not mean ordinary.  
-Animated should not mean noisy.  
-Complex should not mean confusing.**
-
-</details>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-# ◉ TELEMETRY
-
-<div align="center">
-
-### `IMPRESEO / GITHUB ACTIVITY`
-
-<br/>
-
-<a href="https://github.com/impreseo">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=impreseo&theme=github-compact&hide_border=true"
-  width="97%"
-  alt="IMPRESEO GitHub Activity"
-/>
-
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>OPEN CONTRIBUTION TRACE</b></summary>
-
-<br/>
-
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impreseo-hero.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/impreseo-hero.svg">
+  <img src="assets/impreseo-hero.svg" alt="IMPRESEO — Curious by nature. Building by choice." width="100%">
+</picture>
+
+<br>
+
+<p align="center">
+  <b>Personal Brand:</b> IMPRESEO &nbsp;·&nbsp;
+  <b>Name:</b> Niranjan &nbsp;·&nbsp;
+  <b>Focus:</b> Software Engineering · Intelligent Systems · Robotics · Creative Tech
+</p>
+
+<p align="center">
+  <a href="https://impreseo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-impreseo.netlify.app-0A0A0C?style=flat-square&logo=googlechrome&logoColor=C7F36B" alt="Portfolio"></a>
+  <a href="https://github.com/impreseo"><img src="https://img.shields.io/badge/GitHub-@impreseo-0A0A0C?style=flat-square&logo=github&logoColor=F1F0ED" alt="GitHub"></a>
+  <a href="https://in.linkedin.com/in/impreseo"><img src="https://img.shields.io/badge/LinkedIn-in%2Fimpreseo-0A0A0C?style=flat-square&logo=linkedin&logoColor=9277FF" alt="LinkedIn"></a>
+  <a href="https://x.com/theimpreseo"><img src="https://img.shields.io/badge/X-@theimpreseo-0A0A0C?style=flat-square&logo=x&logoColor=F1F0ED" alt="X"></a>
+  <a href="https://www.youtube.com/@theimpreseo"><img src="https://img.shields.io/badge/YouTube-@theimpreseo-0A0A0C?style=flat-square&logo=youtube&logoColor=FF4D4D" alt="YouTube"></a>
+  <a href="https://www.instagram.com/theimpreseo/"><img src="https://img.shields.io/badge/Instagram-@theimpreseo-0A0A0C?style=flat-square&logo=instagram&logoColor=FF6EA7" alt="Instagram"></a>
+  <a href="mailto:theimpreseo@gmail.com"><img src="https://img.shields.io/badge/Email-theimpreseo@gmail.com-0A0A0C?style=flat-square&logo=gmail&logoColor=C7F36B" alt="Email"></a>
+</p>
+
+<br>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/impreseo/impreseo/output/github-contribution-grid-snake.svg"
-    width="97%"
-    alt="IMPRESEO Contribution Trace"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impreseo-signal.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/impreseo-signal.gif">
+  <img src="assets/impreseo-signal.gif" alt="IMPRESEO Signal & System Oscilloscope" width="100%">
 </picture>
 
 </div>
 
-</details>
+---
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+### `01 // INCEPTION` &mdash; About Me
 
-# ⌘ UPLINK
+Hi, I'm **Niranjan** (building as **IMPRESEO**). 
+
+I am a developer, technology enthusiast, builder, and creative problem-solver. I love exploring computing from first principles: writing developer tools that feel snappy, experimenting with intelligent agent architectures, wiring sensors into microcontrollers, and designing technical interfaces with clean visual feedback.
+
+Rather than sticking to a single silo, I work at the intersection of:
+- **Developer Tooling & Workspaces:** Crafting environments that accelerate building.
+- **Intelligent Systems & AI:** Prototyping contextual pipelines and agent workflows.
+- **Robotics & Hardware:** Tinkering with automation, sensors, and telemetry.
+- **Cybersecurity & Systems:** Studying zero-trust principles and OS fundamentals.
+- **Creative Technology:** Bringing motion, geometric clarity, and tactile ergonomics to digital tools.
+
+My philosophy is straightforward: **learn by building, benchmark in public, and share useful work.**
+
+---
+
+### `02 // SIGNALS` &mdash; What I'm Exploring
+
+```
+┌─────────────────────────┬────────────────────────────────────────────────────────┐
+│ DOMAIN                  │ CORE INVESTIGATIONS                                    │
+├─────────────────────────┼────────────────────────────────────────────────────────┤
+│ Developer Tooling       │ AST parsing, context trees, high-throughput interfaces  │
+│ AI & Intelligent Systems│ Local LLM runtime agents, memory buffers, tool dispatch │
+│ Robotics & Automation   │ Embedded microcontrollers, motor telemetry, sensor bus │
+│ Systems & Security      │ Sandboxed execution, zero-trust token flows, POSIX CLI │
+│ Creative Technology     │ Generative vector geometry, fluid interaction, shaders │
+└─────────────────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `03 // BUILDS` &mdash; Featured Projects
+
+#### 1. P.ODE &mdash; Project-Oriented Development Environment
+> **Status:** Active Development &nbsp;·&nbsp; **Platform:** Web / IDE &nbsp;·&nbsp; **Live:** [podeide.netlify.app](https://podeide.netlify.app/)
+
+A project-oriented web development environment engineered to eliminate workspace friction. Designed with contextual file graph hydration, modular editor panes, and zero-latency AST parsing to keep builders in flow state.
+
+<p align="center">
+  <img src="assets/project-pode.svg" alt="P.ODE Architecture" width="100%">
+</p>
+
+- **Core focus:** Workspace context mapping, keyboard-first navigation, low-overhead editor architecture.
+- **Tech stack:** TypeScript, Web APIs, Component Architecture, Reactive State.
+
+---
+
+#### 2. Flux Files &mdash; High-Throughput Desktop File Manager
+> **Status:** Pre-Release Builds &nbsp;·&nbsp; **Platform:** Cross-Platform Desktop &nbsp;·&nbsp; **Releases:** [github.com/impreseo/flux-files-releases](https://github.com/impreseo/flux-files-releases)
+
+A modern desktop file manager built for speed, keyboard navigation, and clutter-free filesystem exploration across Windows, macOS, and Linux.
+
+<p align="center">
+  <img src="assets/project-flux-files.svg" alt="Flux Files Telemetry" width="100%">
+</p>
+
+- **Core focus:** Instant directory indexing, responsive multi-tab layouts, low-overhead system call bridges.
+- **Packaging:** Multi-architecture releases (`.exe`, `.dmg`, `.AppImage`).
+
+---
+
+#### 3. WELZ Forge &mdash; Build What’s Next
+> **Status:** Community Initiative &nbsp;·&nbsp; **Mission:** Student & Builder Empowerment &nbsp;·&nbsp; **Community:** [WhatsApp Group](https://chat.whatsapp.com/FGAj6T0VZP7IFzJtUztzvE) &nbsp;·&nbsp; [WhatsApp Channel](https://whatsapp.com/channel/0029Vb8kfooDjiOXB9YzHb1Z)
+
+An early-stage builder community initiative created to connect ambitious students, developers, and makers. WELZ Forge bridges the gap between ideas and real-world execution by curating hackathons, college competitions, workshops, and peer project showcases.
+
+<p align="center">
+  <img src="assets/project-welz-forge.svg" alt="WELZ Forge Initiative" width="100%">
+</p>
+
+- **Core focus:** Hackathon discovery, technical workshops, project feedback, and builder collaboration.
+
+---
+
+#### 4. Prototypes & Research Concepts
+
+Here are exploratory prototypes and concept architectures from my lab notes:
+
+| Project | Category | Current Status | Architecture Note |
+| :--- | :--- | :--- | :--- |
+| **AegisID** | Security / Auth | *Prototype* | Cryptographic identity verification and hardware token handshake experiments. |
+| **VaultPay** | Systems / Fintech | *Concept Design* | Low-latency settlement state machine and transaction integrity protocol. |
+| **DronVision Pro** | Robotics / CV | *Experiment* | Real-time computer vision telemetry pipeline for object tracking. |
+| **Condage Fabric** | Infrastructure | *Concept Spec* | Zero-trust authentication fabric designed for distributed services. |
+| **Tagoryx** | Developer Tools | *Prototype* | Fast local tagging and metadata clustering engine for unstructured files. |
+| **LANDSTACK** | Architecture | *Research* | Modular spatial computing and asset layout experiment. |
+| **VyaparX** | Commerce Tech | *Exploration* | Lightweight micro-commerce and ledger synchronization framework. |
+
+---
+
+### `04 // TOOLKIT` &mdash; Technologies & Tools
+
+I choose tools based on the problem at hand, prioritizing predictability, speed, and ergonomics:
+
+- **Languages:** `TypeScript`, `JavaScript (ESNext)`, `Python`, `HTML5 / CSS3`, `SQL`, `C / C++ (Embedded)`
+- **Frontend & UI Systems:** `React`, `Vite`, `Tailwind CSS`, `Motion`, `Next.js`
+- **Runtimes & Desktop:** `Node.js`, `Electron`, `Express`, `POSIX Shell / Bash`
+- **Graphics & Creative:** `Three.js`, `Canvas API`, `SVG Vector Math`, `Figma`
+- **Environment & Automation:** `Git`, `GitHub Actions`, `Linux`, `Docker`, `ESP32 / Arduino`
+
+---
+
+### `05 // TELEMETRY` &mdash; GitHub Signal
 
 <div align="center">
 
-### `CHANNEL / OPEN`
+<a href="https://github.com/impreseo">
+  <img src="https://github-readme-stats.vercel.app/api?username=impreseo&show_icons=true&theme=tokyonight&bg_color=0A0A0C&title_color=C7F36B&text_color=F1F0ED&icon_color=9277FF&border_color=22222E&hide_border=false" alt="IMPRESEO GitHub Stats" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impreseo&layout=compact&theme=tokyonight&bg_color=0A0A0C&title_color=C7F36B&text_color=F1F0ED&border_color=22222E&hide_border=false" alt="Top Languages" height="155">
+</a>
 
-**Interesting product, system, utility, interface, or experimental idea?**
+<p><em>(Live stats rendered via GitHub API · Fallbacks provided if service is unreachable)</em></p>
 
-<br/>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-IMPRESEO-0B0E13?style=for-the-badge&logo=github&logoColor=white)](https://github.com/impreseo)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-IMPRESEO-0B0E13?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/impreseo)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-IMPRESEO-0B0E13?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/impreseo)
-[![Discord](https://img.shields.io/badge/DISCORD-IMPRESEO-0B0E13?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/impreseo)
+---
 
-<br/><br/>
+### `06 // METHODOLOGY` &mdash; How I Build
 
-<img src="./assets/footer-final.svg" width="100%" alt="IMPRESEO Final Footer" />
+1. **Deconstruct to first principles:** Understand the machine, the data flow, and the human using it.
+2. **Prototype rapidly:** Build a working vertical slice before writing endless documentation.
+3. **Refine ruthlessly:** Remove clutter, tighten latency, polish typography, and test edge cases.
+4. **Ship & document:** Working software beats theoretical speculation every time.
+
+---
+
+### `07 // CHANNELS` &mdash; Connect With Me
+
+Whether you want to collaborate on an open-source project, discuss AI systems, or connect through the builder community, reach out:
+
+| Channel | Destination | Primary Use |
+| :--- | :--- | :--- |
+| **Portfolio** | [impreseo.netlify.app](https://impreseo.netlify.app/) | Interactive showcases & case studies |
+| **GitHub** | [@impreseo](https://github.com/impreseo) | Codebases, repositories, and releases |
+| **LinkedIn** | [in/impreseo](https://in.linkedin.com/in/impreseo) | Professional updates & networking |
+| **X (Twitter)** | [@theimpreseo](https://x.com/theimpreseo) | Quick thoughts, build logs, and tech experiments |
+| **YouTube** | [@theimpreseo](https://www.youtube.com/@theimpreseo) | Demos, tutorials, and deep-dives |
+| **Instagram** | [@theimpreseo](https://www.instagram.com/theimpreseo/) | Visual design and hardware updates |
+| **Email** | [theimpreseo@gmail.com](mailto:theimpreseo@gmail.com) | Direct correspondence |
+
+---
+
+<div align="center">
+
+<img src="assets/impreseo-mark.svg" alt="IMPRESEO Mark" width="48" height="48">
+
+<br>
+
+```
+[ IMPRESEO // SYSTEM TERMINAL ]
+BUILD. EXPERIMENT. LEARN. REPEAT.
+```
+
+<p align="center">
+  <sub>Crafted with deliberate engineering and vector art for Niranjan (@impreseo).</sub>
+</p>
 
 </div>
